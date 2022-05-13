@@ -1,4 +1,8 @@
-## Hi there 👋
+# ClubhouseMC
+![Discord](https://img.shields.io/discord/579117776392945675?color=98ff98&label=Discord&logo=Discord&logoColor=ffffff&style=for-the-badge&link=discord.clubhousemc.com)
+<br>[Join it](https://discord.clubhousemc.com)
+<hr>
+
 
 <!--
 
