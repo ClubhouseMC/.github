@@ -1,6 +1,10 @@
-# ClubhouseMC 
-![Logo](https://github.com/user-attachments/assets/e32f2df0-471b-4a84-ad33-77c8ef95c2f5)
-ClubhouseMC is a community based on Minecraft Network
+<h1 align="center">
+  <br>
+  <img src="[https://github.com/user-attachments/assets/14df6d9f-6e4a-46d7-9f65-b10919b876f4](https://github.com/user-attachments/assets/e32f2df0-471b-4a84-ad33-77c8ef95c2f5)" alt="ClubhouseMC logo">
+  <br>
+</h1>
+
+ClubhouseMC is a Minecraft Network on the Java version of Minecraft.
 
 At ClubhouseMC, we believe in creating a warm, welcoming, and fun environment for Minecraft  players of all ages. Our server is built on the principles of community, creativity, and collaboration. Whether you're a seasoned player or new to the world of Minecraft, you'll find a place here among friends. 
 
