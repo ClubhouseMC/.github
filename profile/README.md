@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="[https://github.com/user-attachments/assets/e32f2df0-471b-4a84-ad33-77c8ef95c2f5]" alt="ClubhouseMC logo">
+  <img src="https://github.com/user-attachments/assets/e32f2df0-471b-4a84-ad33-77c8ef95c2f5" alt="ClubhouseMC logo">
   <br>
 </h1>
 
