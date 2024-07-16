@@ -1,9 +1,10 @@
 # ClubhouseMC 
-![Logo](https://media.discordapp.net/attachments/560917722108788748/739965932369346679/store_logo.png?width=1440&height=627)
-ClubhouseMC is a community based on Survival Multiplayer
+![Logo](https://github.com/user-attachments/assets/e32f2df0-471b-4a84-ad33-77c8ef95c2f5)
+ClubhouseMC is a community based on Minecraft Network
 
-We are a Minecraft server located in the United States that opened in early 2020! Our aim is to create a community where players interact with one another on the goal of friendship. This is a Minecraft server network, and we have come up with some great plugins that will make the gaming experience fun. ClubhouseMC is a server that has been created by LGLOVER and iEddie whom are brothers that have spent the past 8+ years playing on different Minecraft servers. We want to put together what we have learned and put it all in one server to give everyone out there the best experience that any Minecraft server can give. Hope to see you on the server!
+At ClubhouseMC, we believe in creating a warm, welcoming, and fun environment for Minecraft  players of all ages. Our server is built on the principles of community, creativity, and collaboration. Whether you're a seasoned player or new to the world of Minecraft, you'll find a place here among friends. 
 
+ClubhouseMC was founded by LGLOVER and iEddie, who have played Minecraft for over 10+ years. After exploring and playing throughout hundreds of servers, they wanted to put together what they have learned about servers and make one of their own to give everyone out there the best experience that any Minecraft server can give. After a server which they frequented for many years and made many friends on closed its doors, it became the spark that ignited the flame behind creating ClubhouseMC.
 
 
 
